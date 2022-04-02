@@ -1,2 +1,2 @@
-#!/bin/basg
-ls -la
+#!/bin/bash
+ls -al
